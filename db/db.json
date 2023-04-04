@@ -1,0 +1,12 @@
+{
+    "login": {
+        "username":""
+
+    },
+    "users" :{
+        "login": "teste@email.com",
+        "senha": "123"
+    }
+}
+
+    
