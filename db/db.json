@@ -1,11 +1,8 @@
 {
+    "users": [],
     "login": {
-        "username":""
-
-    },
-    "users" :{
-        "login": "teste@email.com",
-        "senha": "123"
+        "email": "admin@admin.com",
+        "password": "admin"
     }
 }
 
